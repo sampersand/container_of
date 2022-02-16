@@ -1,6 +1,8 @@
 [package]
 name = "container_of"
 version = "0.1.0"
+description = "Porting C's `container_of` macro to Rust"
+license = "MIT"
 edition = "2021"
 
 [dependencies]
