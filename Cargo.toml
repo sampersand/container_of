@@ -6,3 +6,4 @@ license = "MIT"
 edition = "2021"
 
 [dependencies]
+memoffset = "0.6.5"
